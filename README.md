@@ -66,10 +66,4 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para enviar sugestõ
 
 ---
 
-## 📜 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo `LICENSE` para mais informações.
-
----
-
 🎉 **Aproveite seu novo editor de texto!**
