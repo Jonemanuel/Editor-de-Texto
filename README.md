@@ -17,22 +17,9 @@ Um editor de texto simples, funcional e eficiente, desenvolvido em .NET, com rec
 
 ### Tela Principal
 <div align="center">
-    <img src="caminho/para/imagem1.png" alt="Tela Principal" width="600">
+    <img src="https://github.com/Jonemanuel/Editor-de-Texto/blob/master/readme/Captura%20de%20tela%20de%202024-11-19%2023-55-27.png?raw=true" alt="Tela Principal" width="600">
 </div>
 
----
-
-### Abrindo Arquivo de Texto
-<div align="center">
-    <img src="caminho/para/imagem2.png" alt="Abrindo Arquivo de Texto" width="600">
-</div>
-
----
-
-### Salvando Arquivo
-<div align="center">
-    <img src="caminho/para/imagem3.png" alt="Salvando Arquivo" width="600">
-</div>
 
 ---
 
